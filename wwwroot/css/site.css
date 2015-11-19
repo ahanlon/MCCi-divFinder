@@ -7,7 +7,7 @@
 
 /* class used to hide content on page load*/
 .hidden {
-    display: none
+    display: none;
 }
 
 body {
